@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there
+
+May I present to you my collection of scripts and oddities.
+
+I am a network engineer working for a global IT and business consulting firm, based out of South Wales, UK. As you can imagine I spend a fair bit of time working with Cisco network equipment, as well as some HP. I also work with firewalls from a number of different vendors, and I get involved with F5 kit too.
+
+As a long time Linux user and with a degree that involved a lot of programming theory (I'm afraid software engineering was never for me though), I've always had a leaning towards open source network monitoring and management, and using scripting to make my life easier because I'm a little lazy like that.
+
+Some of the repositories here are functional pieces of code where I have had a purpose and written something to fullfill that. Others are more like collections of experiments. I've sought to have reasonable readmes in them all to give an idea of what they are.
+
+If you find anything of particular use you could buy me a coffee via [Ko-fi](https://ko-fi.com/twpsyn), but don't feel that you have to.
 
 <!--
 **twpsyn/twpsyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
