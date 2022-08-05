@@ -2,7 +2,7 @@
 
 May I present to you my collection of scripts and oddities.
 
-I am a network engineer working for a global IT and business consulting firm, based out of South Wales, UK. I spend a fair bit of time working with network kit, firewalls, load balancers, and other things from a number of different vendors.
+I am a network engineer based out of South Wales, UK. I spend a fair bit of time working with network kit, firewalls, load balancers, and other things from a number of different vendors.
 
 Some of the repositories here are functional pieces of code where I have had a purpose and written something to fullfill that. Others are more like collections of experiments. I've sought to have reasonable readmes in them all to give an idea of what they are.
 
